@@ -25,12 +25,12 @@
 📫 How to reach me krss132005@gmail.com<br><br><br>
 🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)
 <br><br><br>
-⭐ Profile Views:  <a href="https://komarev.com/ghpvc/?username=kishankumar1328">
+⭐ Profile Views:  <a href="https://komarev.com/ghpvc/?username=kishan13kumar">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kishankumar1328&style=for-the-badge&color=grey"/></a><br><br><br>
 📜Portfolio:  [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF5733.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://profilo-6gir4yvjr8oqbwiqn7npjv.streamlit.app/#contact)<br>
 <br>
 
-🩵GitHub profile:  [![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/Kishankumar1328)<br><br>
+🩵GitHub profile:  [![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/Kishan13kumar)<br><br>
 
 
 
@@ -261,15 +261,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/kishankumar1328">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishankumar1328&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kishankumar1328&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kishankumar1328&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kishankumar1328&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishankumar1328&theme=2077" height="180em" />
+<a href="https://github.com/kishan13kumar">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishan13kumar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishan13kumar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishan13kumar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kishan13kumar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishan13kumar&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kishankumar1328&theme=synthwave-84"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kishan13kumar&theme=synthwave-84"/>
 
 
 
