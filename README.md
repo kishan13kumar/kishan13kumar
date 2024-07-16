@@ -249,9 +249,9 @@
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>:
-![](https://github-readme-stats.vercel.app/api?username=kishankumar1328&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kishankumar1328&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar1328&langs_count=8&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=kishan13kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kishan13kumar&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan13kumar&langs_count=8&theme=dark)
 <br><br><br>
 
 # 🏆 GitHub Trophies
